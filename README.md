@@ -7,8 +7,8 @@ O projeto **ContaCorrente** é uma implementação em COBOL que calcula o dígit
 ## Links Úteis
 
 - [Projeto Educacional](https://futureschoolead.com.br)
-- [Aula 01 - Introdução ao COBOL](https://youtu.be/FJZyIkolz8U)
-- [Aula 02 - Continuação do COBOL](https://youtu.be/xA8FRtNrxSg)
+- [Aula 01](https://youtu.be/FJZyIkolz8U)
+- [Aula 02](https://youtu.be/xA8FRtNrxSg)
 
 ## Licença
 
@@ -31,8 +31,8 @@ The **ContaCorrente** project is an implementation in COBOL that calculates the 
 ## Useful Links
 
 - [Educational Project](https://futureschoolead.com.br)
-- [Lesson 01 - Introduction to COBOL](https://youtu.be/FJZyIkolz8U)
-- [Lesson 02 - Continuation of COBOL](https://youtu.be/xA8FRtNrxSg)
+- [Lesson 01](https://youtu.be/FJZyIkolz8U)
+- [Lesson 02](https://youtu.be/xA8FRtNrxSg)
 
 ## License
 
