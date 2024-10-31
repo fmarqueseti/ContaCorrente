@@ -20,7 +20,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir _issues_ ou _pul
 
 ## Contato 🇧🇷
 
-Para dúvidas ou sugestões, entre em contato pelo seu perfil do GitHub ou do [LinkedIn] (http://www.linkedin.com/in/fmrqs/).
+Para dúvidas ou sugestões, entre em contato pelo seu perfil do GitHub ou do [LinkedIn](http://www.linkedin.com/in/fmrqs/).
 
 # 🇺🇸 English Version
 
@@ -44,4 +44,4 @@ Contributions are welcome! Feel free to open issues or pull requests.
 
 ## Contact
 
-For questions or suggestions, please contact me through your GitHub or [LinkedIn] (http://www.linkedin.com/in/fmrqs/) profile.
+For questions or suggestions, please contact me through your GitHub or [LinkedIn](http://www.linkedin.com/in/fmrqs/) profile.
